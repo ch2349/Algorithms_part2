@@ -1,3 +1,5 @@
+# http://www.geeksforgeeks.org/dynamic-programming-set-10-0-1-knapsack-problem/
+# https://www.youtube.com/watch?v=149WSzQ4E1g&list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr&index=17
 =begin
 Question 1
 In this programming problem and the next you'll code up the knapsack algorithm from lecture. 
